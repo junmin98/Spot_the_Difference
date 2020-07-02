@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0c3e7e2-4f54-429a-9cf4-1c4421d677c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spot_the_Difference" />
+  </component>
+  <component name="ProjectId" id="1e7dgc0JJMgnmPLXWQLs23X28G7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0c3e7e2-4f54-429a-9cf4-1c4421d677c1" name="Default Changelist" comment="" />
+      <created>1593676677557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593676677557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593677422331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593677422331" />
+    <state x="587" y="325" key="Github.CreateGistDialog" timestamp="1593676913175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="587" y="325" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1593676913175" />
+    <state x="637" y="303" key="Github.ShareDialog" timestamp="1593677576078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="303" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1593677576078" />
+    <state x="645" y="117" key="Github.UntrackedFilesDialog" timestamp="1593676785490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="645" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593676785490" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1593677344012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593677344012" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593677227773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593677227773" />
+  </component>
+</project>
